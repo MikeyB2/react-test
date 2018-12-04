@@ -7,7 +7,7 @@ env:
 - CI=true
 deploy:
   provider: heroku
-  api_key:
+  api_key: f4e29a06-6970-49e3-8b72-57fb58597291
     secure: rTw8BhSJpD6xexCk+qA9wXSFrHECs5orllHbp9bc6fmv6cNpNdeA8R8nxmfWhQGI2sWO76JoHxtMDDMap4xYvtaHCaDD974M1D8iGDc8OLCcrMbxYMqePbOf9WGdDZsVOsxy4BCMAHNRLcWkpYJnHU+N3CTetCTcP+WLpRZ64MfkJ+wJlASDbXoLFcAtP3l/4WFEbl7HRZNqd5uV5aG6XxcaNXpfkR4TE8PReE+ouSmPQOMslkw6ycuTm1a6BGHQ1KC4oNTlvqdLBOdlp7F1Ls/G/PdiEdw8b0rqbQzvfjw8HgTB8a8dmSiGznfLxXiwF83p3bdnTCn0vIWyTm4t/2FxQ9htcKRyw6nItEsoRfJUNXkPskgxmu5mKboHRELAHN74TU6CgpzuKU+8vSac4Tg1lBU3R1OmYP3wxBEtfTk2V/h4D22/chU+gInxWPT7M69bDnir8yzjMP6IuMbaeqS/tss/lfjDJJmZtBwNBFuOm1e8ff1w2TqfPNv+ghR1rjyTzHcagwSpcQlhQCVh7tIF1etfOjFJctURjTIib/WLOZOSeyMsrUky+qdMuxXKQbo4UvAgd0YiMnCVl1Zs5sFaxIWTMlpstTaENhNIKiOoQ8NgEOYx+wLvtiUDWry5FLUsliflTQlE4RN9R6fqj+PGPBDWu0DMcgxMgIhrkug=
   app: 'yes'
   on:
